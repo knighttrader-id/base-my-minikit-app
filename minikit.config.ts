@@ -20,8 +20,8 @@ export const minikitConfig = {
   miniapp: {
     version: "1",
     name: "my-minikit-app",
-    subtitle: "",
-    description: "",
+    subtitle: "my-minikit-app-subtitle",
+    description: "my-minikit-app-description",
     screenshotUrls: [],
     iconUrl: `${ROOT_URL}/icon.png`,
     splashImageUrl: `${ROOT_URL}/splash.png`,
